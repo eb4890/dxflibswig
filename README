@@ -1,0 +1,7 @@
+This is just for swig at the moment doing. I may look at doing a dual release for both C++ and python if I can reconcile directory structure
+
+
+Installation
+python setup.py build_ext install
+
+Check the dxflib help or the source of dl_entities.h and dl_creationinterface.h for ideas of what data you can get out. And test.py in the test for how to use the library. I'll improve that in a bit
